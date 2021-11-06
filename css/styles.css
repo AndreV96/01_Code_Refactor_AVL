@@ -113,10 +113,6 @@ p {
 .content-blocks img {
     width: 100%;
     height: auto;
-    /* min-width: 180px;
-    max-width: 100%;
-    min-height: 180px;
-    max-height: 100%; */
 }
 
 .content-blocks h2 {
