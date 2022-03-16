@@ -1,4 +1,4 @@
-# 01_Code_Refactor_AVL
+# Code Refactor
 Repository containing the solution to homework 01: Code Refactor by André Vega Lederer
 
 Link to website: https://andrev96.github.io/01_Code_Refactor_AVL/
